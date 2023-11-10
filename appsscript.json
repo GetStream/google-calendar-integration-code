@@ -1,0 +1,23 @@
+{
+  "addOns": {
+    "common": {
+      "name": "My Video Solution",
+      "logoUrl": "<link-to-logo>",
+      "useLocaleFromApp": true,
+      "homepageTrigger": {
+        "runFunction": "onHomepage",
+        "enabled": true
+      }
+    },
+    "calendar": {
+      "conferenceSolution": [
+        {
+          "id": 1,
+          "name": "My Video Solution",
+          "logoUrl": "<link-to-logo>",
+          "onCreateFunction": "createConference"
+        }
+      ]
+    }
+  }
+}
