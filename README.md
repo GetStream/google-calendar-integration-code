@@ -1,3 +1,5 @@
+> **This repository is archived and will be deleted.** It is no longer maintained. For a current alternative, see [the blog post](https://getstream.io/blog/google-calendar-integration-video-calling/).
+
 # Google Calendar Integration Of A Video Calling App
 
 These are the code samples for the [blog post]() on how to integrate your video application into Google Calendar to make it available as suggested video platforms for newly created meetings.
